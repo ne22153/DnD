@@ -24,7 +24,7 @@ There's 4 main countries in Komoda:
 
 ## Key NPCs
 
-[theomarre]: https://komoda5e.com/countries/theomarre
-[reria]:   https://komoda5e.com/countries/reria
-[othen]: https://komoda5e.com/countries/othen
-[hezena]: https://komoda5e.com/countries/hezena
+[theomarre]: /DnD/countries/theomarre
+[reria]:   /DnD/countries/reria
+[othen]: /DnD/countries/othen
+[hezena]: /DnD/countries/hezena
