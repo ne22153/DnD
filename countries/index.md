@@ -11,7 +11,7 @@ There's 4 main countries in Komoda:
  - [Othen][othen], no man's land
  - [Hezena][hezena], the up-and-comers
 
-[theomarre]: ne22153.github.io/DnD/countries/theomarre
+[theomarre]: /theomarre
 [reria]:   /DnD/countries/reria
 [othen]: /DnD/countries/othen
 [hezena]: /DnD/countries/hezena
