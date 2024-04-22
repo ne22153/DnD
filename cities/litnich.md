@@ -8,6 +8,6 @@
 
  There is an underground community of sorcerers and wizards which still operate in Litnich. One of which is [Rhennel Liquelar][rhennel-liquelar], who was the one who tried to take out the [King][king-heriot]. She's the only person to evade the King's wrath and so he holds a heavy grudge against her.
 
- [mordrom-forge]: https://komoda5e.com/npcs/trade/mordrom-forge
- [rhennel-liquelar]: https://komoda5e.com/npcs/mages/rhennel-liquelar
- [king-heriot]: https://komoda5e.com/npcs/royalty/heriot
+ [mordrom-forge]: /DnD/npcs/trade/mordrom-forge
+ [rhennel-liquelar]: /DnD/npcs/mages/rhennel-liquelar
+ [king-heriot]: /DnD/npcs/royalty/heriot
