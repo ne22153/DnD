@@ -10,11 +10,22 @@ Political unrest has been brewing; life for those of the lower class is barely l
 
 ## Countries
 
-There's 4 main countries in Komoda:
- - [Theomarre][theomarre], the gem of the north
- - [Reria][reria], an island nation to the west
- - [Othen][othen], no man's land
- - [Hezena][hezena], the up-and-comers
+There's 15 countries in Komoda:
+ - [Theomarre][theomarre]
+ - [Oth][oth]
+ - [The Cristalines][cristalines], the home of dragons
+ - [D'theria][dtheria]
+ - [Anglethea][anglethea]
+ - [Yestu][yestu]
+ - [H'oure][houre]
+ - [Clastimon][clastimon]
+ - [Forest of Frilog][frilog]
+ - [Klupst'a][klupsta]
+ - [Ruthec][ruthec]
+ - [Spift][spift]
+ - [Zenfrit][zenfrit]
+ - [Tenmay][tenmay]
+ - [Home of The Collective][collective-land]
 
 ## Quests
 
@@ -22,9 +33,23 @@ There's 4 main countries in Komoda:
 
 ## Maps
 
+Continent:
+![Komoda](./images/Komoda.jpg)
+
 ## Key NPCs
 
 [theomarre]: /DnD/countries/theomarre
-[reria]:   /DnD/countries/reria
-[othen]: /DnD/countries/othen
-[hezena]: /DnD/countries/hezena
+[oth]:   /DnD/countries/oth
+[cristalines]: /DnD/countries/cristalines
+[dtheria]: /DnD/countries/dtheria
+[anglethea]: /DnD/countries/anglethea
+[yestu]: /DnD/countries/yestu
+[houre]: /DnD/countries/houre
+[clastimon]: /DnD/countries/clastimon
+[frilog]: /DnD/countries/frilog
+[klupsta]: /DnD/countries/klupsta
+[ruthec]: /DnD/countries/ruthec
+[spift]: /DnD/countries/spift
+[zenfrit]: /DnD/countries/zenfrit
+[tenmay]: /DnD/countries/tenmay
+[collective-land]: /DnD/countries/collective-land
