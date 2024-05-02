@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "Komoda"
 categories: setting intro
 permalink : /komoda
@@ -11,21 +10,21 @@ Political unrest has been brewing; life for those of the lower class is barely l
 ## Countries
 
 There's 15 countries in Komoda:
- - [Theomarre][theomarre]
- - [Oth][oth]
- - [The Cristalines][cristalines], the home of dragons
- - [D'theria][dtheria]
  - [Anglethea][anglethea]
- - [Yestu][yestu]
- - [H'oure][houre]
  - [Clastimon][clastimon]
+ - [D'theria][dtheria]
  - [Forest of Frilog][frilog]
+ - [Home of The Collective][collective-land]
+ - [H'oure][houre]
  - [Klupst'a][klupsta]
+ - [Oth][oth]
  - [Ruthec][ruthec]
  - [Spift][spift]
- - [Zenfrit][zenfrit]
  - [Tenmay][tenmay]
- - [Home of The Collective][collective-land]
+ - [Theomarre][theomarre]
+ - [The Cristalines][cristalines]
+ - [Yestu][yestu]
+ - [Zenfrit][zenfrit]
 
 ## Quests
 

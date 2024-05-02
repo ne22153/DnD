@@ -4,6 +4,7 @@ categories: quest
 permalink : /quests/money-trumps-all
 ---
 
+Quest:
 ## Money Trumps All
 
 ### Setting

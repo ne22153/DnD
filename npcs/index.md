@@ -7,21 +7,25 @@ permalink : /npcs
 
 Groups:
  - [Collective][collective]
+ - [Eclipsed Valor][eclipsed-valor]
+
+Adventurers:
+ - [Luceran Stillmoon][luceran-stillmoon]
 
 Mages:
  - [Rhennel Liquelar][rhennel-liquelar]
 
 Nobles:
-    Theomarre:
-     - [Lady Cithrel Voldavie][cithrel-voldavie]
+ - Theomarre:
+ -   - [Lady Cithrel Voldavie][cithrel-voldavie]
 
 Royalty:
-    Theomarre:
-     - [King Heriot][heriot]
+ - Theomarre:
+ -  - [King Heriot][heriot]
 
 Trade:
-    Theomarre:
-     - [Mordrom Forge][mordrom-forge]
+ - Theomarre:
+ -  - [Mordrom Forge][mordrom-forge]
 
 
 
@@ -34,3 +38,7 @@ Trade:
 [heriot]: /DnD/npcs/royalty/heriot
 
 [mordrom-forge]: /DnD/npcs/trade/mordrom-forge
+
+[eclipsed-valor]: /DnD/npcs/eclipsed-valor
+
+[luceran-stillmoon]: /DnD/npcs/adventurers/luceran-stillmoon

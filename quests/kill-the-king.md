@@ -3,6 +3,8 @@ layout: page
 categories: quest
 permalink : /quests/kill-the-king
 ---
+
+Quest:
 ## Kill The King
 
 ### Setting

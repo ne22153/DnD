@@ -4,6 +4,7 @@ categories: quest
 permalink : /quests/masked-magic
 ---
 
+Quest:
 ## Masked Magic
 
 ### Setting
