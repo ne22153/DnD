@@ -4,7 +4,7 @@ categories: setting intro
 permalink : /countries/anglethea
 ---
 
-Anglethea is biggest island nation.
+Country:
 
 ## Anglethea
 
