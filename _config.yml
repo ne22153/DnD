@@ -28,7 +28,7 @@ url: "http://komoda5e.com" # the base hostname & protocol for your site, e.g. ht
 github_username:  ne22153
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
