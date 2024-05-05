@@ -8,6 +8,8 @@ Country:
 
 ## Anglethea
 
+### Map
+
 
 ### Royalty
 
@@ -15,7 +17,7 @@ It's ruled by a young King [Heriot][king-heriot], who is controlled mostly by hi
 
 The masses think the King had truly lost it after he banned *all* magic use (due to an attack on his life from a group of sorcerers). Anyone caught practicing magic is burnt at the stake in the town square. Due to the nature of this punishment, many townsfold will accuse people they don't like as there is no verification. This has led to general distrust between families.
 
-### Cities
+### Key locations
 
 The country is made up of mostly one large city: [Litnich][litnich].
 

@@ -4,7 +4,7 @@ categories: random flavour
 permalink : /misc/hunters-bane
 ---
 
-*"To those who'd steal your soul, one must break one's soul first" - Grandmaster Acheros the Gleaming*
+*"To beat those who'd steal your soul, one must break one's soul first" - Grandmaster Acheros the Gleaming*
 ## Hunter's Bane
 
 There are many mystical and arcane rituals known to this world, many manipulate strands from the Weave or are bestowed by the gods themselves to aid their followers in their hour of need. Few are exchanged across the realms and time, the machinations of beings not of this plane; ancient Fae creatures and long forgotten gods.

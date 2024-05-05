@@ -14,10 +14,12 @@ Anglethea:
 Oth:
  - [For the Crown!][for-the-crown]
 
-
+Clastimon:
+ - [Ghostly Whispers][ghostly-whispers]
 
  [money-trumps-all]: /DnD/quests/money-trumps-all
  [kill-the-king]: /DnD/quests/kill-the-king
  [masked-magic]: /DnD/quests/masked-magic
  [time-to-shine]: /DnD/quests/time-to-shine
  [for-the-crown]: /DnD/quests/for-the-crown
+ [ghostly-whispers]: /DnD/quests/ghostly-whispers

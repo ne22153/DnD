@@ -8,3 +8,9 @@ permalink : /maps
 ### Komoda world map
 
 ![Komoda](../images/Komoda.jpg)
+
+### [D'Theria][dtheria]
+
+![Dtheria](../images/D'Theria.jpg)
+
+[dtheria]: /DnD/countries/dtheria
