@@ -8,9 +8,14 @@ permalink : /npcs
 Groups:
  - [Collective][collective]
  - [Eclipsed Valor][eclipsed-valor]
+ - [Bloodhunter Order][bloodhunter-order]
 
 Adventurers:
  - [Luceran Stillmoon][luceran-stillmoon]
+
+Bloodhunters:
+ - [Johan Bloodmoon][johan-bloodmoon]
+ - [Christopher Widdelin][christopher-widdelin]
 
 Mages:
  - [Rhennel Liquelar][rhennel-liquelar]
@@ -42,3 +47,9 @@ Trade:
 [eclipsed-valor]: /DnD/npcs/eclipsed-valor
 
 [luceran-stillmoon]: /DnD/npcs/adventurers/luceran-stillmoon
+
+[bloodhunter-order]: /DnD/npcs/bloodhunter-order
+
+[johan-bloodmoon]: /DnD/npcs/family/johan-bloodmoon
+
+[christopher-widdelin]: /DnD/npcs/bloodhunters/christopher-widdelin

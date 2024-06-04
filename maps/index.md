@@ -13,4 +13,7 @@ permalink : /maps
 
 ![Dtheria](../images/D'Theria.jpg)
 
+![Inquisition](../images/Inquisition.jpg)
+
 [dtheria]: /DnD/countries/dtheria
+

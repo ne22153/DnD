@@ -37,6 +37,13 @@ There's 15 countries in Komoda:
 Continent:
 ![Komoda](./images/Komoda.jpg)
 
+
+[D'Theria][dtheria]:
+
+![Dtheria](./images/D'Theria.jpg)
+
+[dtheria]: /DnD/countries/dtheria
+
 ## Key NPCs
 
 [theomarre]: /DnD/countries/theomarre
