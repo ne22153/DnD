@@ -163,4 +163,3 @@ Story motivation *(answer in a single paragraph)*
 
 # Stat Block
 
-[//] : <img src="../../images/luceran stillmoon.png" alt="Stats">

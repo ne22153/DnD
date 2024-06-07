@@ -21,15 +21,15 @@ Mages:
  - [Rhennel Liquelar][rhennel-liquelar]
 
 Nobles:
- - Theomarre:
+ - Anglethea:
  -   - [Lady Cithrel Voldavie][cithrel-voldavie]
 
 Royalty:
- - Theomarre:
+ - Anglethea:
  -  - [King Heriot][heriot]
 
 Trade:
- - Theomarre:
+ - Anglethea:
  -  - [Mordrom Forge][mordrom-forge]
 
 
