@@ -30,6 +30,8 @@ Country
 **Airin Palace Farmland**
  Mostly for show, as not many crops are grown here.
 
+**Southern Outpost**
+
 
 #### Southern Lakeside
 
@@ -41,6 +43,7 @@ Country
 **Thorne Residence**
  Nigel Thorne is the owner of this residence, as well as the King's key advisor. The advisor always lives here, so the house comes with a speckled history.
 
+**Elkhorn Mill**
 
 #### Northern Lakeside
 
@@ -70,21 +73,91 @@ Country
 
 #### City Centre
 
+**College of Dawn**
+
+**The Exchange**
+
 #### The Keep
 
 #### Artisan Quarter
 
+**Shadow and Respite**
+
+**Dayain Observatory**
+
+**Merchant's Guild**
+
+**Artisan Alley**
+
 #### Westmarsh
 
+**The Floodro Road**
+
+**Lunar Market**
+
+**Pearl's House of Pleasure**
+
+**Bell Tower**
+
+**The Busy Bee Aviary**
+
+**Moonmaker Commune**
+
+**The Troubled Troubadour**
+
+**The Rusty Nail**
+
 #### Lyell District
+
+**Cascade Spa and Bathhouse**
+
+**Lyell Plaza**
+
+**Smith Forge and Forest**
+
+**Eastern Outpost**
 
 #### Southedge
 
  This isn't an official issue, but a larger population of dwarves have come to harm late at night. In fact, one ([Mordrom Forge][mordrom-forge]) owns the main bank and is the only place where you can exchange Hezenian Crowns for the generally accepted Orens.
 
+**Southeastern Outpost**
+
 #### East Bottoms
 
+**The Soot Road**
+
+**Lover's Leap Inn**
+
+**Powderkeg Alley**
+
+**Ledgewalk Carnival**
+
+**Smuggler's Docks**
+
+**Northeastern Outpost**
+
 #### Northern Flats
+
+**The Mason's Guild**
+
+**Long Fang Vineyard**
+
+**Der Velken Prison**
+
+**Northern Outpost**
+
+**Corner of Colours**
+
+**Queen's Street Mall**
+
+**Moonmaker Commune**
+
+**Greenleaf Memorial Garden**
+
+**Forgotten Finds**
+
+**Northwestern Outpost**
 
  [mordrom-forge]: /DnD/npcs/trade/mordrom-forge
  [rhennel-liquelar]: /DnD/npcs/mages/rhennel-liquelar
