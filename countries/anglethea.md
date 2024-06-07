@@ -22,4 +22,4 @@ The masses think the King had truly lost it after he banned *all* magic use (due
 The country is made up of mostly one large city: [Litnich][litnich].
 
 [king-heriot]: /DnD/npcs/royalty/heriot
-[litnich]: /DnD/cities/litnich
+[litnich]: /DnD/locations/litnich
