@@ -19,6 +19,8 @@ Bloodhunters:
 
 Mages:
  - [Rhennel Liquelar][rhennel-liquelar]
+ - [Mary Shane][mary-shane]
+ - [Arthur Sherwood][arthur-sherwood]
 
 Nobles:
  - Anglethea:
@@ -53,3 +55,7 @@ Trade:
 [johan-bloodmoon]: /DnD/npcs/family/johan-bloodmoon
 
 [christopher-widdelin]: /DnD/npcs/bloodhunters/christopher-widdelin
+
+[mary-shane]: /DnD/npcs/mages/mary-shane
+
+[arthur-sherwood]: /DnD/npcs/mages/arthur-sherwood
